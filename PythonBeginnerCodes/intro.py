@@ -1,0 +1,7 @@
+name = input("Hey! What is your name? ")
+print(f"Hello {name}! 👋 Welcome to my repository where I'm learning and experimenting with Python programming.")
+print("This is a space where I document my journey in Python.")
+print("Feel free to explore the code snippets and projects I'm working on.")
+print("If you have any suggestions, feedback, or just want to say hello, don't hesitate to open an issue or reach out!")
+print("Happy coding!")
+input("Press any key to exit! ")
